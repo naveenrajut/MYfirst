@@ -1,0 +1,23 @@
+Civil engineering:
+    civil_professors:
+        cp1,cp2,cp3,cp4,cp5,cp6
+    civil_students:
+        cs1,cs2,cs3,cs4,cs5,cs6,cs7,cs8,cs9,cs10,cs11,cs12,cs13,cs14,cs15,cs16,cs17,cs18,cs19,cs20
+
+Electronics and communication engineering:
+    ece_professors:
+         ep1,ep2,ep3,ep4,ep5,ep6
+    ece_students:
+         es1,es2,es3,es4,es5,es6,es7,es8,es9,es10,es11,es12,es13,es14,es15,es16,es17,es18,es19,es20
+
+Mechanical engineering:
+    mechanical_professors:
+        mp1,mp2,mp3,mp4,mp5,mp6
+    mechanical_students:
+        ms1,ms2,ms3,ms4,ms5,ms6,ms7,ms8,ms9,ms10,ms11,ms12,ms13,ms14,ms15,ms16,ms17,ms18,ms19,ms20
+
+Information technology:
+    it_professors:
+        ip1,ip2,ip3,ip4,ip5,ip6
+    it_students:
+        is1,is2,is3,is4,is5,is6,is7,is8,is9,is10,is11,is12,is13,is14,is15,is16,is17,is18,is19,is20
